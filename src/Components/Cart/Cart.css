@@ -1,0 +1,19 @@
+.cart-container {
+    background-color: coral;
+}
+
+.orage {
+    background-color: orange;
+}
+
+.blue {
+    background-color: rgb(180, 180, 229);
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.bold {
+    font-weight: bold;
+}
